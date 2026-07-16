@@ -2,8 +2,6 @@
 
 This project is a multi‑page website built with HTML and CSS that teaches beginners how to make the perfect chocolate chip cookie. The site includes a homepage, a recipe page, and a tips page to help users understand ingredients, techniques, and common baking mistakes.
 
-## Live Website
-(Your GitHub Pages link will go here once we publish the site)
 
 ## Documentation
 All project documentation is located in the docs/ folder:
@@ -14,3 +12,5 @@ All project documentation is located in the docs/ folder:
 
 ## Project Structure
  project03-final
+## Live Website
+https://cmartinez59.github.io/project03-final/
